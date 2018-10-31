@@ -1,0 +1,1 @@
+/Volumes/Work/code-challenge/platforms/android/app/src/main/assets/metadata

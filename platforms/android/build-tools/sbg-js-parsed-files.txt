@@ -1,0 +1,4 @@
+/Volumes/Work/code-challenge/platforms/android/app/src/main/assets/app/bundle.js
+/Volumes/Work/code-challenge/platforms/android/app/src/main/assets/app/starter.js
+/Volumes/Work/code-challenge/platforms/android/app/src/main/assets/app/tns-java-classes.js
+/Volumes/Work/code-challenge/platforms/android/app/src/main/assets/app/vendor.js

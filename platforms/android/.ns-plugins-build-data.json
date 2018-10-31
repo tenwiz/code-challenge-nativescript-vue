@@ -1,0 +1,14 @@
+{
+	"nativescript-socket.io": {
+		"/Volumes/Work/code-challenge/node_modules/nativescript-socket.io/platforms/android/AndroidManifest.xml": "9741d925308f7277734e46001e8dc12b4e0c2529",
+		"/Volumes/Work/code-challenge/node_modules/nativescript-socket.io/platforms/android/nativescript_socket.io.aar": "976d76906152b76d63b2455aad715e401c515ed3",
+		"/Volumes/Work/code-challenge/node_modules/nativescript-socket.io/platforms/android/include.gradle": "7a8a45319157113f76f8c777be4227069fa4188d"
+	},
+	"tns-core-modules-widgets": {
+		"/Volumes/Work/code-challenge/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "402875596039fd16198e0e4adbb85e44a4ff148d"
+	},
+	"nativescript-camera": {
+		"/Volumes/Work/code-challenge/node_modules/nativescript-camera/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02",
+		"/Volumes/Work/code-challenge/node_modules/nativescript-camera/platforms/android/nativescript_camera.aar": "e37d4be0bcbf4f135092570d7c433f0bfe3c184d"
+	}
+}

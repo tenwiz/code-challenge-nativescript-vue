@@ -3,7 +3,3 @@
 
 # NPM
 node_modules
-
-# NativeScript application
-hooks
-platforms

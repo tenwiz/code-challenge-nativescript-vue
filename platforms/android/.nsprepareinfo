@@ -1,0 +1,18 @@
+{
+	"time": "Tue Oct 30 2018 05:39:28 GMT-0400 (Eastern Daylight Time)",
+	"nativePlatformStatus": "3",
+	"bundle": true,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "15640437d53b40e867a8f7ecf7530a19320e94cf3538b47db2c792d788b74ae2",
+	"changesRequireBuildTime": "Tue Oct 30 2018 04:59:46 GMT-0400 (Eastern Daylight Time)",
+	"appFilesHashes": {
+		"/Volumes/Work/code-challenge/app/fonts/.gitkeep": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Volumes/Work/code-challenge/app/app.scss": "0416af3b7f7d5632ac9448e7e8fbd075af63525b",
+		"/Volumes/Work/code-challenge/app/assets/images/NativeScript-Vue.png": "31f09bdba72293198ee2e2a83c4fe5aa5744bc3d",
+		"/Volumes/Work/code-challenge/app/components/App.vue": "d07aa0f3242cf5e01a62436da39c69d93fcf3863",
+		"/Volumes/Work/code-challenge/app/components/Welcome.vue": "d75ad8d7dcf39530ec285731d02ad17e857eb297",
+		"/Volumes/Work/code-challenge/app/main.js": "27ecbca851c0883ac25aeffa43bfd414c1e69a02",
+		"/Volumes/Work/code-challenge/app/package.json": "06e3f7351cdac024ae8bb26102c6791eb172dc5d"
+	}
+}
